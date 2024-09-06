@@ -31,3 +31,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Genin-orange?style=for-the-badge&logo=naruto" alt="Genin Badge" />
   <img src="https://img.shields.io/badge
+![Anime Banner](https://your-link-to-anime-banner.com)
