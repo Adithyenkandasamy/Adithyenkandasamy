@@ -1,19 +1,4 @@
-<style>
-.anime-background {
-    background: url('https://link-to-anime-background-image') no-repeat center center fixed;
-    background-size: cover;
-    animation: glow 5s infinite alternate;
-}
 
-@keyframes glow {
-    from {
-        opacity: 0.8;
-    }
-    to {
-        opacity: 1;
-    }
-}
-</style>
 
 <!-- Anime Themed GitHub Profile with Extra Features -->
 <h2 align="center">✨ Welcome to Adithyen's Anime Universe ✨</h2>
