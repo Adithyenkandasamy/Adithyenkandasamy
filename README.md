@@ -8,7 +8,7 @@
 
 ![Adithyenkandasamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,css&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,css&layout=compact&theme=tokyonight)
 
 <img src="https://media.giphy.com/media/YYoV5np9pOZmkz6vUOT/giphy.gif" width="400"/>
 
@@ -24,7 +24,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=tokyonight&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=jujutsu)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=jujutsu&no-frame=true&column=3)
 
 ---
 
