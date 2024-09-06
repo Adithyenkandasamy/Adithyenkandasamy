@@ -1,31 +1,46 @@
+<style>
+.anime-background {
+    background: url('https://link-to-anime-background-image') no-repeat center center fixed;
+    background-size: cover;
+    animation: glow 5s infinite alternate;
+}
 
+@keyframes glow {
+    from {
+        opacity: 0.8;
+    }
+    to {
+        opacity: 1;
+    }
+}
+</style>
 
-<!--
-**Adithyenkandasamy/Adithyenkandasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Anime Themed GitHub Profile with Extra Features -->
+<h2 align="center">✨ Welcome to Adithyen's Anime Universe ✨</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- Dynamic Anime Avatar -->
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img src="https://link-to-anime-avatar-image" alt="anime-avatar" class="anime-avatar" height="150">
 </a>
+
+<!-- GitHub Stats with Anime Style -->
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyo-night&rank_icon=github&include_all_commits=true" />
 </a>
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Adithyenkandasamy&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<!-- Language Stats -->
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=tokyo-night" />
+</a>
 
+<!-- Anime Episode-Themed Progress Bar -->
+<div class="episode-progress">
+  <p>Episode 56: Commit Streak!</p>
+  <progress value="56" max="100"></progress>
+</div>
 
+<!-- Anime Achievements Trophies -->
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=onestar&no-frame=true&title=Followers,Stars,Commits&column=-1"/>
 
-<!--<a href=#><img src="contributions.svg"></a>-->
-
+<!-- Interactive Anime GIF -->
+<a href="#"><img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" height="200" alt="anime-gif"></a>
