@@ -1,34 +1,31 @@
-<!-- Anime-Themed GitHub Repository (Naruto vs Jujutsu Kaisen) -->
-<h1 align="center">Naruto vs Jujutsu Kaisen: A Coding Arena</h1>
+# 👋 Welcome to My Ninja World
 
-<!-- Header Image -->
-<h1 align="center">
-  <img src="https://link-to-naruto-image" alt="Naruto" width="300" />
-  <span style="color:#f4900c;"> VS </span>
-  <img src="https://link-to-jujutsu-image" alt="Jujutsu Kaisen" width="300" />
-</h1>
-
-<!-- GitHub Stats -->
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyo-night" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyo-night" />
-</a>
-
-<!-- Chakra and Cursed Energy Levels -->
-<h2 align="center">Current Chakra Level</h2>
-<div style="background-color: #f4900c; width: 80%; height: 20px; border-radius: 5px;">
-  <div style="background-color: #1b1e2b; width: 60%; height: 100%;"></div>
-</div>
-
-<h2 align="center">Cursed Energy Level</h2>
-<div style="background-color: #0b4f6c; width: 80%; height: 20px; border-radius: 5px;">
-  <div style="background-color: #ffd700; width: 70%; height: 100%;"></div>
-</div>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Level-Genin-orange?style=for-the-badge&logo=naruto" alt="Genin Badge" />
-  <img src="https://img.shields.io/badge
 ![Anime Banner](https://your-link-to-anime-banner.com)
+
+> "When you give up, your dreams and everything else, they're gone." - Naruto Uzumaki 🍥
+
+## 🔥 My GitHub Journey
+
+![Adithyenkandasamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,css&layout=compact&theme=tokyonight)
+
+<img src="https://media.giphy.com/media/YYoV5np9pOZmkz6vUOT/giphy.gif" width="400"/>
+
+### 💻 Tech Jutsus
+
+- **Python**: 🐍 Expert in mastering snakes (80% power level)
+- **JavaScript**: ⚡ Mastering speed like Rock Lee (70%)
+- **HTML/CSS**: 📜 Styling the web world (95% mastery)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=tokyonight&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=jujutsu)
+
+---
+
+⚡ **Fun fact**: I code while channeling my inner Naruto 🍥 & Gojo 🧠.
