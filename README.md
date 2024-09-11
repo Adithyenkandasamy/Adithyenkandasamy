@@ -5,7 +5,7 @@
 		<img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyenkandasamy" />
 	</a>
 	<a href="https://github.com/Adithyenkandasamy">
-		<img src="https://img.shields.io/github/followers/Adithyenkandasamy&label=Followers" alt="Adithyenkandasamy" />
+		<img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers" alt="Adithyenkandasamy" />
 	</a>
 </p>
 <br/>
