@@ -5,7 +5,7 @@
 		<img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyenkandasamy" />
 	</a>
 	<a href="https://github.com/Adithyenkandasamy">
-		<img src="https://img.shields.io/github/followers/Adithyenkandasamylabel=Followers" alt="Adithyenkandasamy" />
+		<img src="https://img.shields.io/github/followers/Adithyenkandasamy&label=Followers" alt="Adithyenkandasamy" />
 	</a>
 </p>
 <br/>
@@ -23,7 +23,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 
 
 ## <a href="https://github.com/gokul-1998"></a> GitHub Stats
-### ⚡ Gokul's Stats
+### ⚡ Adhii's Stats
 <br />
 <p align="center">
 	<a href="https://github.com/Adithyenkandasamy">
