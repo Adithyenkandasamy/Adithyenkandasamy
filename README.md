@@ -49,7 +49,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 ## It's not perfect, is it?
 <p>
 <a href="https://github.com/Adithyenkandasamy"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
-"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"
+<h2>"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"</h2><br>
   -Madara Uchiha
 </p>
 <hr>
