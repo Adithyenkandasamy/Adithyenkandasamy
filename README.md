@@ -1,15 +1,66 @@
+<h1 align="center">Hi, I'm Adithyen K</h1>
+
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyenkandasamy" />
+	</a>
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://img.shields.io/github/followers/Adithyenkandasamylabel=Followers" alt="Adithyenkandasamy" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 
-<h3>Welcome to my Github Page:</h3><br>
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Adithyenkandasamy&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+Hey there! I love to read, speak, and discuss trending tech, space, and science. 
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Hariprasath36&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Adithyenkandasamy&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Adithyenkandasamy&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+-  Ask me about Web Development, DBMS, Azure, and Python. 
+-  Feel free to mail me [adithyen1@gmail.com](mailto:adithyen1@gmail.com)
 
+
+## <a href="https://github.com/gokul-1998"></a> GitHub Stats
+### ⚡ Gokul's Stats
+<br />
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
+	<br/><br/>
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
+	</a>
+	<br/>
+</p>
+<br/>
+
+### ⚡ Top Languages
+<br/>
+
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Adithyenkandasamy">
+	</a>
+</p>
+<br/>
+
+
+## It's not perfect, is it?
+<p>
+<a href="https://github.com/Adithyenkandasamy"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
+"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"
+  -Madara Uchiha
+</p>
+<hr>
+
+<br />
+
+## 🤝 Connect with me
+<br />
+<p align="center">
+	<a href="mailto:adithyen1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<!-- 	<a href="https://www.linkedin.com/in/gokulakrishnan-muthusamy-141a78201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a> -->
+	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+	</a>
+</p>
