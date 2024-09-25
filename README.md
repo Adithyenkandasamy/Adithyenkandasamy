@@ -1,27 +1,66 @@
-<h1 align="center">Hi 👋, I'm Adhii</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Adithyen K</h1>
 
-- 🔭 I’m currently working on [Fast Api](https://github.com/Adithyenkandasamy/Fast_Api)
-
-- 🌱 I’m currently learning **Flask,Django,etc**
-
-- 💬 Ask me about **python,c basics,Cpp,Reactbasics,.etc**
-
-- 📫 How to reach me **adithyen1@gmail.com**
-
-- ⚡ Fun fact **Wake up to Reality nothing ever goes planned in the accuresed World**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_adhii_toxxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adhii_toxxy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@adithyen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adithyen1" height="30" width="40" /></a>
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyenkandasamy" />
+	</a>
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers" alt="Adithyenkandasamy" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
+	</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyenkandasamy&show_icons=true&locale=en&layout=compact" alt="adithyenkandasamy" /></p>
+Hey there! I love to read, speak, and discuss trending tech, space, and science. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyenkandasamy&show_icons=true&locale=en" alt="adithyenkandasamy" /></p>
+-  Ask me about Web Development, DBMS, Azure, and Python. 
+-  Feel free to mail me [adithyen1@gmail.com](mailto:adithyen1@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyenkandasamy&" alt="adithyenkandasamy" /></p>
+
+## <a href="https://github.com/gokul-1998"></a> GitHub Stats
+### ⚡ Adhii's Stats
+<br />
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
+	<br/><br/>
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
+	</a>
+	<br/>
+</p>
+<br/>
+
+### ⚡ Top Languages
+<br/>
+
+<p align="center">
+	<a href="https://github.com/Adithyenkandasamy">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Adithyenkandasamy">
+	</a>
+</p>
+<br/>
+
+
+## It's not perfect, is it?
+<p>
+<a href="https://github.com/Adithyenkandasamy"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
+<h1>"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"</h1>
+<h2>-Madara Uchiha</h2> 
+</p>
+<hr>
+
+<br />
+
+## 🤝 Connect with me
+<br />
+<p align="center">
+	<a href="mailto:adithyen1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<!-- 	<a href="https://www.linkedin.com/in/gokulakrishnan-muthusamy-141a78201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a> -->
+	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+	</a>
+</p>
