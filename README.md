@@ -20,7 +20,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 
 -  Ask me about Web Development, DBMS, Azure, and Python. 
 -  Feel free to mail me [adithyen1@gmail.com](mailto:adithyen1@gmail.com)
--  Explore my portfolio: <a href="https://adhii-portfolio.netlify.app/" target="_blank" style="color: #fffc00;">adhii-portfolio</a>
+-  Explore my portfolio: <a href="https://adhii-portfolio.netlify.app/" target="_blank" style="color: #fffc00;">My-Portfolio</a>
 
 
 
