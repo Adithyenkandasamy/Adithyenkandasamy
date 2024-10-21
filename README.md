@@ -63,6 +63,10 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 <p align="center">
 	<a href="mailto:adithyen1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 <!-- 	<a href="https://www.linkedin.com/in/gokulakrishnan-muthusamy-141a78201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a> -->
-	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+	<a href="https://github.com/Adithyenkandasamy"><img src="https://adhii-portfolio.netlify.app/assets/logo-f67cf406.svg" alt="GitHub"/>
+	</a>
+	
+</a>
 	</a>
 </p>
