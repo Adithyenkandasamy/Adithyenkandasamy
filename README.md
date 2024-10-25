@@ -66,11 +66,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
 	<a href="https://adhii-portfolio.netlify.app/"><img src="https://adhii-portfolio.netlify.app/assets/logo-f67cf406.svg" alt="Portfolio"/>
 	</a>
-	div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
-  <h4 style="color: #00eaff; background-color: #121212; padding: 10px; border-radius: 10px;">
-    🎨 My Snake Animation
-  </h4>
-  <img src="https://raw.githubusercontent.com/Adithyenkandasamy/Adithyenkandasamy/output/github-snake.svg" alt="Snake Animation" width="900" />
+	
 </a>
 	</a>
 </p>
