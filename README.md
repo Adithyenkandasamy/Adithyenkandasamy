@@ -41,7 +41,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Adithyenkandasamy">
+<!-- 	<a href="https://github.com/Adithyenkandasamy"> -->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Adithyenkandasamy">
 	</a>
 </p>
