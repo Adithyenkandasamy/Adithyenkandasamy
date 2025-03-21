@@ -67,5 +67,12 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 	</a>
 	
 </a>
-	</a>
+</a>
+</p>
+<p>
+	### 🎨 My Snake Animation
+<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg" alt="Snake Animation" width="900" />
+</div>
+
 </p>
