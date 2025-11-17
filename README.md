@@ -71,9 +71,6 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 </p>
 <p>
 
-<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/Adithyenkandasamy/Adithyenkandasamy/output/github-snake.svg" alt="Snake Animation" width="900" />
-</div>
 
 </p>
 <!-- nsdj -->
