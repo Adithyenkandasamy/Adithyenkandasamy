@@ -1,76 +1,102 @@
-<h1 align="center">Hi, I'm Adithyen K</h1>
+<h1 align="center">Hi 👋, I'm Adithyen K</h1>
+<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-	<a href="https://github.com/Adithyenkandasamy">
-		<img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Adithyenkandasamy" />
-	</a>
-	<a href="https://github.com/Adithyenkandasamy">
-		<img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers" alt="Adithyenkandasamy" />
-	</a>
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers&style=flat" alt="followers" />
+  </a>
 </p>
-<br/>
-<p align="center">
-	<a href="https://github.com/Adithyenkandasamy">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-
-
-Hey there! I love to read, speak, and discuss trending tech, space, and science. 
-
--  Ask me about Web Development, DBMS, Azure, and Python. 
--  Feel free to mail me [adithyen1@gmail.com](mailto:adithyen1@gmail.com)
--  Explore my portfolio: <a href="https://adhii-portfolio.netlify.app/" target="_blank" style="color: #fffc00;">My-Portfolio</a>
-
-
-
-
-### ⚡ Adhii's Stats
-<br />
-<p align="center">
-	<a href="https://github.com/Adithyenkandasamy">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
-	<br/><br/>
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=blue-green" alt="Adithyenkandasamy">
-	</a>
-	<br/>
-</p>
-<br/>
-
-### ⚡ Top Languages
-<br/>
 
 <p align="center">
-<!-- 	<a href="https://github.com/Adithyenkandasamy"> -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=blue-green" width="100%" alt="Adithyenkandasamy">
-	</a>
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;IITM+BS+Data+Science+Student;Competitive+Programmer;AI+%26+Backend+Enthusiast;Always+Building+%26+Learning&center=true&width=500&height=45">
+  </a>
 </p>
-<br/>
 
+---
 
-## It's not perfect, is it?
-<p>
-<a href="https://github.com/Adithyenkandasamy"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a><br/>
-<h1>"Wake Up To Reality,Nothing Ever Goes Planned In The Accursed World"</h1>
-<h2>-Madara Uchiha</h2> 
-</p>
-<hr>
+## 🚀 About Me
 
-<br />
+Hey there! I'm **Adithyen**, a passionate **Full-Stack Developer** and **IITM BS Data Science student** who loves building scalable applications and exploring the intersection of **AI, backend systems, and web technologies**.
 
-## 🤝 Connect with me
-<br />
+💡 I enjoy discussing **trending tech, space, and science**, and I strongly believe in *learning by building*.
+
+- 🔭 Currently working on **AI-powered & backend-heavy projects**
+- 🌱 Learning **advanced system design, DSA, and cloud technologies**
+- 🧠 Strong interest in **problem solving & competitive programming**
+- 💬 Ask me about **Web Dev, DBMS, Python, FastAPI, React, Azure**
+- 📫 Reach me at **adithyen1@gmail.com**
+- 🌐 Portfolio: <a href="https://adhii-portfolio.netlify.app/" target="_blank"><b>adhii-portfolio.netlify.app</b></a>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python, Java, C, JavaScript, SQL
+
+**Frontend**
+- React.js, HTML, CSS, Tailwind CSS
+
+**Backend**
+- FastAPI, Node.js, REST APIs
+
+**Databases**
+- MySQL, PostgreSQL, SQLite
+
+**Tools & Platforms**
+- Git, GitHub, Docker, Linux, Azure, Firebase
+
+**AI / ML**
+- LLM APIs, Prompt Engineering, AI Integrations
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-	<a href="mailto:adithyen1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Adithyenkandasamy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
-	<a href="https://adhii-portfolio.netlify.app/"><img src="https://adhii-portfolio.netlify.app/assets/logo-f67cf406.svg" alt="Portfolio"/>
-	</a>
-	
-</a>
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=blue-green" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=blue-green" />
 </p>
-<p>
 
+---
 
+## 🌐 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&langs_count=8&layout=compact&theme=blue-green" width="60%" />
 </p>
-<!-- nsdj -->
+
+---
+
+## 🧠 Philosophy
+
+<h3 align="center">
+  “Wake up to reality. Nothing ever goes as planned in this accursed world.”
+</h3>
+<p align="center"><b>— Madara Uchiha</b></p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:adithyen1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://adhii-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Always building. Always learning. Always evolving.</i>
+</p>
