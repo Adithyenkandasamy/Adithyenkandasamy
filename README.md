@@ -14,7 +14,7 @@
 	</a>
 </p>
 
-<center><a href="https://app.daily.dev/adhiipro"><img src="https://api.daily.dev/devcards/v2/XTsVlVy9olEYM7GclW5Sm.png?r=9l8&type=wide" width="652" alt="Adhii_pro's Dev Card"/></a><br/><center/>
+<a href="https://app.daily.dev/adhiipro"><img src="https://api.daily.dev/devcards/v2/XTsVlVy9olEYM7GclW5Sm.png?r=9l8&type=wide" width="700" alt="Adhii_pro's Dev Card"/></a><br/>
 Hey there! I love to read, speak, and discuss trending tech, space, and science. 
 -  Ask me about Web Development, DBMS, Azure, and Python. 
 -  Feel free to mail me [adithyen1@gmail.com](mailto:adithyen1@gmail.com)
