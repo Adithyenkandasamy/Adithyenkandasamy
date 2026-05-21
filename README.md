@@ -47,7 +47,7 @@ Hey there! I love to read, speak, and discuss trending tech, space, and science.
 </p>
 <hr>
 <br />
-## 🤝 Connect with me
+# 🤝 Connect with me
 <br />
 <p align="center">
 	<a href="mailto:adithyen1@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
