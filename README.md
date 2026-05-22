@@ -65,7 +65,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
-  <img src="https://images.seeklogo.com/logo-png/43/1/render-logo-png_seeklogo-435814.png" height="48" alt="Render"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ## 🧰 Tools & Environment
@@ -103,13 +103,7 @@ Coming soon...
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
@@ -156,7 +150,7 @@ Coming soon...
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/1473954264283090944">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
