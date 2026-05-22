@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+<br>
 
 # 🚀 About Me
 
@@ -24,7 +24,7 @@
 - 🌱 Currently learning AI integrations, scalable backend architectures, and cloud-native development  
 - 🐧 Linux user who enjoys exploring new technologies and developer tools  
 
----
+<br>
 
 # 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=azure" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" height="48" alt="DigitalOcean"/>
 </p>
 
 ## 🚀 Deployment Platforms
@@ -65,7 +65,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="48" height="48"/>
+  <img src="https://images.seeklogo.com/logo-png/43/1/render-logo-png_seeklogo-435814.png" height="48" alt="Render"/>
 </p>
 
 ## 🧰 Tools & Environment
@@ -74,7 +74,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
----
+<br>
 
 # 💻 Coding Profiles
 
@@ -98,21 +98,21 @@
 Coming soon...
 -->
 
----
+<br>
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img width="47%" src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adithyenkandasamy&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<br>
 
 # 📰 Daily.dev Dev Card
 
@@ -122,7 +122,7 @@ Coming soon...
   </a>
 </p>
 
----
+<br>
 
 # 🏅 Developer Badges
 
@@ -135,7 +135,7 @@ Coming soon...
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=flat-square" />
 </p>
 
----
+<br>
 
 # 🤝 Connect With Me
 
@@ -157,6 +157,6 @@ Coming soon...
   </a>
 
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-i__adhii__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
