@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<br>
+---
 
 # 🚀 About Me
 
@@ -24,20 +24,20 @@
 - 🌱 Currently learning AI integrations, scalable backend architectures, and cloud-native development  
 - 🐧 Linux user who enjoys exploring new technologies and developer tools  
 
-<br>
+---
 
 # 🛠️ Tech Stack
 
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 ## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ## ⚙️ Backend
@@ -49,16 +49,32 @@
 ## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-## ☁️ Tools & Platforms
+## ☁️ Cloud Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,azure,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48"/>
 </p>
 
-<br>
+## 🚀 Deployment Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="48" height="48"/>
+</p>
+
+## 🧰 Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+---
 
 # 💻 Coding Profiles
 
@@ -82,31 +98,21 @@
 Coming soon...
 -->
 
-<br>
+---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img width="48%" src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
-
-# 🎧 Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31oer46deln3qp5qu4m234zl7gei?si=07a094b480b841c2">
-    <img src="https://img.shields.io/badge/Spotify-Adhii__pro-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<br>
+---
 
 # 📰 Daily.dev Dev Card
 
@@ -116,7 +122,7 @@ Coming soon...
   </a>
 </p>
 
-<br>
+---
 
 # 🏅 Developer Badges
 
@@ -129,7 +135,7 @@ Coming soon...
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=flat-square" />
 </p>
 
-<br>
+---
 
 # 🤝 Connect With Me
 
@@ -150,7 +156,7 @@ Coming soon...
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 
-  <a href="https://open.spotify.com/user/31oer46deln3qp5qu4m234zl7gei?si=07a094b480b841c2">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-i__adhii__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
