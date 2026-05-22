@@ -65,7 +65,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
-  <img src="https://www.svgrepo.com/show/354118/render.svg" width="48" height="48" alt="Render"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
 </p>
 
 ## 🧰 Tools & Environment
