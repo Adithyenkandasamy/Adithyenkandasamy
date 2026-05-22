@@ -65,7 +65,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://www.svgrepo.com/show/354118/render.svg" width="48" height="48" alt="Render"/>
 </p>
 
 ## 🧰 Tools & Environment
