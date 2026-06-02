@@ -227,10 +227,6 @@ Automated content pipeline using **n8n + Make.com**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adithyenkandasamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyenkandasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
