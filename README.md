@@ -1,267 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=180&section=header&text=Adithyen%20K&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Hero Wave Banner with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a5f,80:0284c7,100:38bdf8&height=220&section=header&text=ADITHYEN%20K&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Architect%20%E2%80%A2%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=19&descColor=bae6fd&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Web+Apps;FastAPI+%2B+React+%2B+Next.js;Computer+Vision+%7C+NLP+%7C+LLMs;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+<!-- Animated Cyber/Code Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Architecting+Scalable+FastAPI+%26+Next.js+Distributed+Systems;%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Model+Context+Protocol+(MCP);%F0%9F%8F%86+Cryptora'26+Hackathon+Winner+%7C+National+Finalist+%40+Microsoft;%F0%9F%94%A7+Dynamic+Code+Execution+Engines+%26+AST+Visualization;%F0%9F%9A%80+Turning+Complex+Spreadsheets+into+Intelligent+AI+Copilots" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/Adithyenkandasamy)
-[![GitHub Followers](https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers&style=flat-square&color=38bdf8)](https://github.com/Adithyenkandasamy?tab=followers)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=38bdf8)](https://adhii-portfolio.netlify.app)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-adithyen = {
-    "role":       "Full Stack Developer & AI/ML Engineer",
-    "education":  "B.E. CSE @ SNS College of Technology, Coimbatore",
-    "experience": ["AI/ML Intern @ Magizh Technologies", "Software Intern @ SNS Square Hub"],
-    "focus":      ["FastAPI", "React/Next.js", "Computer Vision", "LLMs", "Cloud Deployment"],
-    "interests":  ["Building AI-powered apps", "Automation workflows", "Open Source"],
-    "os":         "Linux 🐧",
-    "ask_me_about": "AI integrations, scalable backends, or random tech rabbit holes",
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=38bdf8)
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=f97316)
-![C](https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=38bdf8)
-![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=6366f1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=4ade80)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38bdf8)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/React_Native-0f172a?style=flat-square&logo=react&logoColor=38bdf8)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=f97316)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & AI**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=4ade80)
-![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=a3e635)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=f97316)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=38bdf8)
-![Ollama](https://img.shields.io/badge/Ollama-0f172a?style=flat-square&logo=ollama&logoColor=ffffff)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Databases**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=38bdf8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=4ade80)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=facc15)
-![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=38bdf8)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase&logoColor=4ade80)
-
-</td>
-<td valign="top">
-
-**Cloud & DevOps**
-<br/>
-![GCP](https://img.shields.io/badge/GCP-0f172a?style=flat-square&logo=googlecloud&logoColor=4285f4)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0f172a?style=flat-square&logo=digitalocean&logoColor=38bdf8)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=flat-square&logo=vercel&logoColor=ffffff)
-
-</td>
-<td valign="top">
-
-**Automation & Tools**
-<br/>
-![n8n](https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=f97316)
-![Make](https://img.shields.io/badge/Make.com-0f172a?style=flat-square&logo=make&logoColor=6366f1)
-![Selenium](https://img.shields.io/badge/Selenium-0f172a?style=flat-square&logo=selenium&logoColor=4ade80)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=facc15)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=38bdf8)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎙️ Real-Time Voice Chat Web App
-AI-powered voice chat using **Ollama + FasterWhisper + Kokoro** via WebSockets.
-- ⚡ `<200ms` latency
-- 🎯 `95%` transcription accuracy
-- Real-time streaming responses
-
-</td>
-<td width="50%">
-
-### 🖐️ Hand Gesture Control System
-Touchless HCI using **OpenCV + ML** for gesture recognition.
-- 🤟 `10+` gesture types recognized
-- 🎯 `92%` accuracy
-- Zero hardware dependency
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖼️ Image Classification System
-**TensorFlow + Flask** web app for real-time image recognition.
-- Live model training via UI
-- REST API deployment
-- Custom dataset support
-
-</td>
-<td width="50%">
-
-### 🔧 MCP Server (Claude Desktop)
-`stdio`-based MCP server exposing **custom tools for LLMs** through Claude Desktop.
-- Python implementation
-- Tool registration & routing
-- Tested with Claude integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Subscription Manager (React Native)
-Track & manage recurring subscriptions with automated reminders.
-- Expense monitoring dashboard
-- Renewal alerts
-- Organized plan view
-
-</td>
-<td width="50%">
-
-### 🤖 LinkedIn Post Automation
-Automated content pipeline using **n8n + Make.com**.
-- Scheduled social posts
-- Multi-platform workflow
-- Zero manual intervention
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-```
-📍 Software Intern — SNS Square Hub, Coimbatore          [Feb 2026 – Apr 2026]
-   ├── Next.js + FastAPI: clean architecture, API design, performance optimization
-   ├── AI/CV/OCR/Multimodal: intelligent document processing & automation
-   └── LLM concepts: tokenization, prompt engineering, model integration
-
-📍 AI/ML Engineer Intern — Magizh Technologies           [Jul 2025 – Jul 2025]
-   ├── Developed AI/ML models in Flask and FastAPI apps
-   ├── Implemented Computer Vision + NLP for business use cases
-   └── Deployed scalable AI solutions with model optimization
-```
-
----
-
-## 🏅 Certifications & Achievements
-
-| 🏆 Achievement | Details |
-|---|---|
-| Code Cubical 5.0 Hackathon | **Finalist** |
-| Google Hack2Skill | Agentic AI Day (Participation) |
-| VISA × IIT Madras Hackathon | Participation |
-| Pinnacle Plus Gen AI | Analytics Vidhya |
-| IBM Enterprise Design Thinking | Certified |
-| ByteXL Python | Placement Readiness |
-| HackerRank Python | Certified |
-| CodeChef | 500+ difficulty rating |
-
----
-
-## 💻 Coding Profiles
-
+<!-- Realtime Status Badges & Social Links -->
 <p align="center">
-  <a href="https://leetcode.com/u/Adhii_pro/">
-    <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=LeetCode&logoColor=FFA116" />
+  <a href="https://komarev.com/ghpvc/?username=Adithyenkandasamy">
+    <img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
   </a>
-  <a href="https://www.codechef.com/users/adhii_pro">
-    <img src="https://img.shields.io/badge/CodeChef-0f172a?style=for-the-badge&logo=CodeChef&logoColor=c08b5e" />
+  <a href="https://github.com/Adithyenkandasamy?tab=followers">
+    <img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://www.hackerrank.com/profile/adithyen1">
-    <img src="https://img.shields.io/badge/HackerRank-0f172a?style=for-the-badge&logo=HackerRank&logoColor=2EC866" />
+  <a href="https://adhii-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/adithyen-k">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 </div>
 
 ---
 
-## 📰 Dev Card
+<!-- Animated Visual Splitter -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Border" />
 
-<div align="center">
-  <a href="https://app.daily.dev/adhiipro">
-    <img src="https://api.daily.dev/devcards/v2/XTsVlVy9olEYM7GclW5Sm.png?r=9l8&type=wide" width="600" alt="Daily Dev Card"/>
-  </a>
-</div>
+## 👨‍💻 Engineering Terminal
 
----
+```python
+"""
+Executing session: adithyen_environment.py
+Location: Sathyamangalam, Tamil Nadu, India
+Status: Production-Ready & Open to Backend/AI Opportunities
+"""
 
-## 🤝 Connect With Me
+from typing import List, Dict
 
-<div align="center">
+class Engineer:
+    def __init__(self):
+        self.name: str = "Adithyen K"
+        self.education: str = "B.E. Computer Science & Engineering @ SNS College of Technology"
+        self.os_preference: str = "Arch Linux 🐧 (Terminal-Driven Development)"
+        self.core_domains: List[str] = [
+            "High-Throughput Async Backends (FastAPI / WebSockets)",
+            "Autonomous Agents & Model Context Protocol (MCP)",
+            "Real-Time Telemetry & Distributed State Coordination",
+            "AST Code Parsing, Inspection & Dynamic Tracing (sys.settrace)",
+            "Computer Vision & Document Intelligence Pipelines (OCR / Multimodal)"
+        ]
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adithyen1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adithyenkandasamy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyen-k)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=38bdf8)](https://adhii-portfolio.netlify.app/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1473954264283090944)
+    def current_mission(self) -> Dict[str, str]:
+        return {
+            "building": "Next-Gen Manufacturing AI Copilots & Enterprise Microservices",
+            "latest_win": "Winner @ Cryptora'26 Hackathon (Emergency Dispatch Telemetry)",
+            "ask_me_about": "Scalable APIs, Event-Driven Architecture, or Linux Customization"
+        }
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=100&section=footer" />
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+if __name__ == "__main__":
+    adithyen = Engineer()
+    print("System active and listening on port 0.0.0.0:8000")
