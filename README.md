@@ -1,30 +1,25 @@
 <div align="center">
 
-<!-- Hero Wave Banner with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a5f,80:0284c7,100:38bdf8&height=220&section=header&text=ADITHYEN%20K&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Architect%20%E2%80%A2%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=19&descColor=bae6fd&animation=fadeIn" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=200&section=header&text=Adithyen%20K&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- Animated Cyber/Code Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=800&lines=%E2%9A%A1+Architecting+Scalable+FastAPI+%26+Next.js+Distributed+Systems;%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+Model+Context+Protocol+(MCP);%F0%9F%8F%86+Cryptora'26+Hackathon+Winner+%7C+National+Finalist+%40+Microsoft;%F0%9F%94%A7+Dynamic+Code+Execution+Engines+%26+AST+Visualization;%F0%9F%9A%80+Turning+Complex+Spreadsheets+into+Intelligent+AI+Copilots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;FastAPI+%2B+React+%2B+Next.js;Open+Source+Builder" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Realtime Status Badges & Social Links -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Adithyenkandasamy">
-    <img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://komarev.com/ghpvc/?username=Adithyenkandasamy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/Adithyenkandasamy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Adithyenkandasamy?label=Followers&style=flat-square&color=38bdf8" alt="GitHub Followers" />
   </a>
-  <a href="https://adhii-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+  <a href="https://adhii-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/adithyen-k">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -32,40 +27,132 @@
 
 ---
 
-<!-- Animated Visual Splitter -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Border" />
+# 🚀 About Me
 
-## 👨‍💻 Engineering Terminal
+- 💡 **Passionate Full Stack Developer and AI/ML Engineer** from India
+- ⚡ **Core Focus:** Building high-performance backends and real-time systems using **FastAPI, Python, React, and Next.js**
+- 🧠 **AI Specialization:** Large Language Models (LLMs), Model Context Protocol (MCP), Computer Vision, and OCR
+- 🌱 **Actively Exploring:** Scalable event-driven architectures, autonomous AI agents, and developer tooling
+- 🐧 **Linux Power User:** Working and developing daily inside an Arch Linux terminal environment
 
-```python
-"""
-Executing session: adithyen_environment.py
-Location: Sathyamangalam, Tamil Nadu, India
-Status: Production-Ready & Open to Backend/AI Opportunities
-"""
+---
 
-from typing import List, Dict
+# 🛠️ Tech Stack
 
-class Engineer:
-    def __init__(self):
-        self.name: str = "Adithyen K"
-        self.education: str = "B.E. Computer Science & Engineering @ SNS College of Technology"
-        self.os_preference: str = "Arch Linux 🐧 (Terminal-Driven Development)"
-        self.core_domains: List[str] = [
-            "High-Throughput Async Backends (FastAPI / WebSockets)",
-            "Autonomous Agents & Model Context Protocol (MCP)",
-            "Real-Time Telemetry & Distributed State Coordination",
-            "AST Code Parsing, Inspection & Dynamic Tracing (sys.settrace)",
-            "Computer Vision & Document Intelligence Pipelines (OCR / Multimodal)"
-        ]
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
+</p>
 
-    def current_mission(self) -> Dict[str, str]:
-        return {
-            "building": "Next-Gen Manufacturing AI Copilots & Enterprise Microservices",
-            "latest_win": "Winner @ Cryptora'26 Hackathon (Emergency Dispatch Telemetry)",
-            "ask_me_about": "Scalable APIs, Event-Driven Architecture, or Linux Customization"
-        }
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-if __name__ == "__main__":
-    adithyen = Engineer()
-    print("System active and listening on port 0.0.0.0:8000")
+### ⚙️ Backend & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,tensorflow,opencv" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,redis,sqlite" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,githubactions,linux" />
+</p>
+
+### 🚀 Deployment Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" height="48" alt="DigitalOcean"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render"/>
+</p>
+
+### 🧰 Tools & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,selenium" />
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Adhii_pro/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/adhii_pro">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/adithyen1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Adithyenkandasamy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br>
+
+# 📰 Daily.dev Dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/adhiipro">
+    <img src="https://api.daily.dev/devcards/v2/XTsVlVy9olEYM7GclW5Sm.png?r=9l8&type=wide" width="600" alt="Daily Dev Card" />
+  </a>
+</div>
+
+---
+
+# 🏅 Developer Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-Developer-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-User-FCC624?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=flat-square" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:adithyen1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adithyenkandasamy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adithyen-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://adhii-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1473954264283090944">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <em>"First, solve the problem. Then, write the code."</em>
+</div>
